@@ -1,5 +1,5 @@
 # Basketball_sim
-To open the notebook, click the Basketball.ipnb file and then click open with google colab
+To open the notebook, click the Basketball.ipnb file and then click open in google colab
 
 If on a mobile device, there may be some operational difficulties.
 
